@@ -1,5 +1,5 @@
 <h1 align="center">Yo, Lynbert here!</h1>
-<h5 align="center"> In the days of my 10th-grade beginnings, I embarked upon the world of programming, driven by an insatiable thirst for knowledge and personal growth. I maintain a vigilant watch over my own progress, striving for continuous improvement. Currently, I'm immersed in AI, complementing my college education with online courses, a journey mastering Python while sadly pursuing my college education, initiated during my second year.</h5>
+<h5 align="center"> In the days of my 10th-grade beginnings, I embarked upon the world of programming, driven by an insatiable thirst for knowledge and personal growth. I maintain a vigilant watch over my own progress, striving for continuous improvement. Currently, I'm immersed in AI, complementing my college education with online courses, a journey mastering Python while sadly pursuing my college education that I have initiated during my second year.</h5>
 <br>
 
 
