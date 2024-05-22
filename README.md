@@ -1,5 +1,5 @@
 <h1 align="center">Yo, Lynbert here!</h1>
-<h5 align="center"> A while back, when I was just a 10th grader, I began programming in backend languages and started playing around Unity and Unreal. However, a few months later, I lost interest in gaming. Since then, learning various dsa, languages, and other topics had been a hobby of mine for quite a while. Driven by thirst for knowledge and personal growth I maintained a vigilant watch over my own progress, striving for continuous improvement. Currently, I'm immersed in AI, complementing my college education with online courses, trying to be proficient in something while sadly pursuing my college education.</h5>
+<h5 align="center"> A while back, when I was just a 10th grader, I began programming in backend languages and started playing around Unity and Unreal. However, a few months later, I lost interest in gaming. Since then, learning various dsa, languages, and other topics had been a hobby of mine for quite a while. I am now trying my best to have a steady pace of continuous improvement. Currently, I'm immersed in AI, complementing my college education with online courses, trying to be proficient in something while sadly pursuing my college education.</h5>
 <br>
 
 
