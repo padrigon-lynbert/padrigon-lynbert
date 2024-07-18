@@ -1,8 +1,7 @@
-I began programming in high school, experimenting a lot with desktop, mobile, and game development until eventually uncovering my passion for machine learning.
-
-
-
 <p align="center">
+I began programming in high school, experimenting a lot with desktop, mobile, and game development until eventually uncovering my passion for machine learning. <br>
+<br><br>
+  
   <img src="profile-summary-card-output/rose_pine/3-stats.svg" alt="Image">
   <img src="profile-summary-card-output/rose_pine/4-productive-time.svg" alt="Image">
   <img src="https://github.com/padrigon-lynbert/padrigon-lynbert/blob/master/profile-summary-card-output/rose_pine/0-profile-details.svg" alt="Image">
