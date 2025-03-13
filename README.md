@@ -1,17 +1,23 @@
-Hi there, I'm Siv.
+__Hi there, I'm Siv.__
 
 I started programming in junior high when I discovered it was the foundation of game development. During my senior years, I explored various technologies to satisfy my overlapping interests. In college, I found my passion for predictive models, which led me to dive into machine learning.
 
 I now focus on practicing and building deep learning models, continuously improving my skills in AI development—or as I prefer to call it, creating and integrating machine learning models into application interfaces. I'm always open to learning new things, collaborating on innovative projects, and exploring this niche.
 
-📌 Connect with me:
+📌 Connect with me: 
 GitHub | LinkedIn | Facebook
 
-Focus:
-Git, GitHub, Jupyter, Python, NumPy, Scikit-learn, Windows, Django, PyTorch, Hugging Face, MySQL, SQLite
+✨ __Focus:__    
+ Python, Scikit-learn, NumPy, PyTorch, Django, Hugging Face
 
-Getting Acquainted:
+
+ ✨ __Support:__   
+ HTML, CSS,  Bootstrap, MySQL, SQLite    
+ Windows, Git, GitHub, Vscode, Jupyter(ipynb)
+
+✨ __Getting Acquainted:__  
 SQL
 
-Previously Used / Explored:
-PC, Dev C++, C, C++, C#, Java, Linux Mint, PHP, HTML, CSS, JavaScript, Bootstrap, Unity, Unreal Engine, Blender
+✨ __Previously Used / Explored:__    
+ Unity, Unreal Engine, Blender, Android Studio, Visual Studio, Codeblocks, Pycharm, DevC++   
+ C, C++, C#, Java, Linux Mint, PHP, JavaScript
