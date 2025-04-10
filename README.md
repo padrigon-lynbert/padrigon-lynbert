@@ -9,4 +9,5 @@ I now focus on practicing and building deep learning models, continuously improv
 ✨ __Currently Exploring:__ Fine Tuning, AI model deployment 
 
 📌 __Connect with me:__    
-[GitHub](https://github.com/padrigon-lynbert) | [LinkedIn](https://www.linkedin.com/in/lynbert-padrigon/) | [Facebook](https://www.facebook.com/siv.padrigon.fb/)
+<!--[GitHub](https://github.com/padrigon-lynbert) | -->
+[LinkedIn](https://www.linkedin.com/in/lynbert-padrigon/), [Facebook](https://www.facebook.com/siv.padrigon.fb/)
