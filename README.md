@@ -4,8 +4,7 @@ I started programming in junior high when I discovered it was the foundation of 
 
 I now focus on practicing and building deep learning models, improving my skills in AI development—or as I prefer to call it, creating and integrating models into application interfaces. I'm always open to learning new things, collaborating on innovative projects, and exploring this niche.
 
-✨ __Focus Areas:__ Deep Learning, Python, PyTorch, Django, Hugging Face  
-✨ __Development Stack:__ SQL, Git, VS Code, Jupyter Notebook  
+✨ __Focus Areas:__ Python-Deep Learning, Python-PyTorch, Django(Render/Railway), Hugging Face  
 ✨ __Currently Exploring:__ Fine Tuning, AI model deployment 
 
 📌 __Connect with me:__    
