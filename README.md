@@ -5,9 +5,9 @@ I started programming in junior high when I discovered it was the foundation of 
 I now focus on practicing and building deep learning models,  
 creating and integrating models into webapp interfaces.
 
-Currently I'm facing some hardware drawbacks so I can't really explore it that deep unless I use models as api.
+Currently I'm facing some hardware drawbacks so I can't really explore it that deep unless I use models as api.  
 
-✨ __Focus Areas:__ SK-Learn, Python-Deep Learning, Python-PyTorch, Django(Render/Railway), Hugging Face
+✨ __Focus Areas:__ SK-Learn, Python-Deep Learning, Python-PyTorch, Django(Render/Railway), Hugging Face  
 ✨ __Currently Exploring:__ Fine Tuning, AI model deployment 
 
 📌 __Connect with me:__    
