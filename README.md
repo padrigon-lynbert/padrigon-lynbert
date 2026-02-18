@@ -32,7 +32,8 @@ PUBLIC INFO:
   I am already part of the largest club in the world: the rare-church-going christians.
   Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying, I am not a monk. 
 ```
-
+If you reached this part, you're basically almost done. I am usualy quietter and not usually this abrupt. Those are just complexity mixed with philosophy and humor to filter out people I don't want in my life.
+If you are comfortable with that we will surely get along. Hi, I'm Siv. Let's meet sometimes, stay safe.
   
 __Contacts:__ +639817990642, padrigonlynbert@gmail.com
 
