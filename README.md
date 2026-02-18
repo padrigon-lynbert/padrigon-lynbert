@@ -28,7 +28,7 @@ PUBLIC INFO:
   I may disappear for months, it’s not personal I'm prob. dealing with clients.
   I pursue an ambitious dream and am drawn to same others in which I rarely see.
   All men are lizards beneath their civilized skin. I am the fucking lizard king.
-  I am collecting friends like Pokémon: mentors, peers, and people I can learn from.
+  I am collecting rares gotta catch ’em all: mentors, peers, and people I can learn from.
   I am already part of the largest club in the world: the rare-church-going christians.
   Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying, I am not a monk. 
 ```
