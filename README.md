@@ -28,8 +28,8 @@ PUBLIC INFO:
   I may disappear for months, it’s not personal I'm prob. dealing with clients.
   I pursue an ambitious dream and am drawn to same others in which I rarely see.
   All men are lizards beneath their civilized skin. I am the fucking lizard king.
-  I am collecting rares gotta catch ’em all: mentors, peers, and people I can learn from.
   I am already part of the largest club in the world: the rare-church-going christians.
+  I am collecting rares gotta catch ’em all: mentors, peers, and people I can learn from.
   Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying, I am not a monk. 
 ```
 If you reached this part, you're basically almost done. I am usualy quietter and not usually this abrupt. Those are just complexity mixed with philosophy and humor to filter out people I don't want in my life.
@@ -39,7 +39,7 @@ __Contacts:__ +639817990642, padrigonlynbert@gmail.com
 
   
 
-✨ __Focus Areas:__ ML, DL, sklearn/torch, Django, Hugging Face
+✨ __Focus Areas:__ ML, DL, sklearn/torch, Django, Hugging Face    
 ✨ __Currently Exploring:__ Fine Tuning, AI model deployment, Web Integration
 
 📌 __Connect with me:__    
