@@ -37,15 +37,12 @@ PUBLIC INFO:
   Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying, I am not a monk.
 ```
 If you reached this part, you're basically almost done. I am usualy quietter and not usually this abrupt. Those are just complexity mixed with philosophy and humor to filter out people I don't want in my life.
-If you are comfortable with that we will surely get along. Hi, I'm Siv. Let's meet sometimes, stay safe.
+If you are comfortable with that we will surely get along. Hi, I'm Siv. Let's meet sometimes, stay safe.    
+<br>And this is github I know, not professional? com'on we already know what we can do no need to sound corporate. My repos are there most good are private although. What we need are less depressed programmers now. Have some break.
   
 __Contacts:__ +639817990642, padrigonlynbert@gmail.com
 
   
-
 ✨ __Focus Areas:__ ML, DL, sklearn/torch, Django, Hugging Face    
-✨ __Currently Exploring:__ Fine Tuning, AI model deployment, Web Integration
-
-📌 __Connect with me:__    
-<!--[GitHub](https://github.com/padrigon-lynbert) | -->
-[LinkedIn](https://www.linkedin.com/in/lynbert-padrigon/), [Facebook](https://www.facebook.com/siv.padrigon.fb/)
+✨ __Currently Exploring:__ Fine Tuning, AI model deployment, Web Integration   <hr>
+I mostly work with netherbuild where we help (most) construction contractors do faster quotation(in seconds), crm, automation, just website and things. Normal people won't see my github profile anyway, so... interesting human let's connect!
