@@ -26,7 +26,6 @@ PUBLIC INFO:
   I’m an early bird and a night owl. So I’m wise and I have worms.
   If you think I am hating you, you probably misunderstood. I don’t do that.
   I may disappear for months, it’s not personal I'm prob. dealing with clients.
-  I pursue an ambitious dream and am drawn to same others in which I rarely see.
   All men are lizards beneath their civilized skin. I am the fucking lizard king.
   For everything of course, All thanks to God. And maybe a few demons he let slide.
   I am already part of the largest club in the world: the rare-church-going christians.
@@ -35,6 +34,7 @@ PUBLIC INFO:
   Everything I am is because of my parents, best regards ~son. And some things better left unexplained.
   Never broken a promise, 100% keeping streak. Credibility intact... unlike the bodies I leave in my wake.
   Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying, I am not a monk.
+  I pursue an ambitious dream and am drawn to same others in which I rarely see. But between you and me, I'd say I am more likely to fail. Hey don't say that to anyone I’ll look bad in front of the girls.
 ```
 If you reached this part, you're basically almost done. I am usualy quietter and not usually this abrupt. Those are just complexity mixed with philosophy and humor to filter out people I don't want in my life.
 If you are comfortable with that we will surely get along. Hi, I'm Siv. Let's meet sometimes, stay safe.    
