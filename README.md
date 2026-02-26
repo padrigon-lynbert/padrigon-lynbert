@@ -28,9 +28,13 @@ PUBLIC INFO:
   I may disappear for months, it’s not personal I'm prob. dealing with clients.
   I pursue an ambitious dream and am drawn to same others in which I rarely see.
   All men are lizards beneath their civilized skin. I am the fucking lizard king.
+  For everything of course, All thanks to God. And maybe a few demons he let slide.
   I am already part of the largest club in the world: the rare-church-going christians.
   I am collecting rares gotta catch ’em all: mentors, peers, and people I can learn from.
-  Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying, I am not a monk. 
+  A great friend too, decades-long friend streak. Definitely a keeper -mostly of skeletons.
+  Everything I am is because of my parents, best regards ~son. And some things better left unexplained.
+  Never broken a promise, 100% keeping streak. Credibility intact... unlike the bodies I leave in my wake.
+  Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying, I am not a monk.
 ```
 If you reached this part, you're basically almost done. I am usualy quietter and not usually this abrupt. Those are just complexity mixed with philosophy and humor to filter out people I don't want in my life.
 If you are comfortable with that we will surely get along. Hi, I'm Siv. Let's meet sometimes, stay safe.
