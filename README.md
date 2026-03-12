@@ -35,7 +35,7 @@ My journey was simple: backend -> software -> games -> machine/deep learning -> 
 ✨ __Currently Exploring:__ MVP
 
 Purpose: Stability, BTA, and eventually a chocolate factory.    
-Drive: Ambition, tribe, freedom.     
+Drive: Ambition, tribe, freedom, the thrill of the chase.     
 Motivation: Progress, meaning.    
 
 <hr>
