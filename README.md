@@ -24,7 +24,7 @@ PUBLIC INFO:
   I kept the people that protected me when I'm not in the room. One of them is my brother now.
 ```
 
-<br>My repos are there most good are private although.
+<br>My repos are there many are private although, but you can probably see at least hundreds of my public repos. (you may see the IPYNB thing dominating the whole codebase, in most cases these are what my public repository is all about actually, its just a testing ground. If you are reading this to hire me or to befriend me and not a technical one, you may think of IPYNB as just a box for python codes).
   
 __Contacts:__ +639817990642, padrigonlynbert@gmail.com
 
