@@ -33,5 +33,10 @@ __Contacts:__ +639817990642, padrigonlynbert@gmail.com
 My journey was simple: backend -> software -> games -> machine/deep learning -> integrating AI to pages -> devops -> creating software for ideally people that seek efficiency.<br>      
 ✨ __Focus Areas:__ Python fullstack <br>      
 ✨ __Currently Exploring:__ MVP
+
+Purpose: Stability, BTA, and eventually a chocolate factory.    
+Drive: Ambition, tribe, freedom.     
+Motivation: Progress, meaning.    
+
 <hr>
 I mostly work with netherbuild where we help (most) construction contractors and small construction companies do faster quotation(in seconds), crm, automation, just website and things. Normal people won't see my github profile anyway, so... interesting human let's connect!
