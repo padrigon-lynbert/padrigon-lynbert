@@ -24,7 +24,7 @@ PUBLIC INFO:
   I kept the people that protected me when I'm not in the room. One of them is my brother now.
 ```
 
-<br>My repos are there many are private although, but you can probably see at least hundreds of my public repos. (you may see the IPYNB thing dominating the whole codebase, in most cases these are what my public repository is all about actually, its just a testing ground. If you are reading this to hire me or to befriend me and not a technical one, you may think of IPYNB as just a box for python codes).
+<br>My repos are there many are private although, but you can probably see at least hundreds of my public repos. (you may see the IPYNB thing dominating the whole codebase, in most cases these are what my public repository is all about actually, its just a testing ground (that's why i have no single repo pinned). If not a technical one, you may think of IPYNB as  a box for python codes).
   
 __Contacts:__ +639817990642, padrigonlynbert@gmail.com
 
@@ -34,9 +34,9 @@ My journey was simple: backend -> software -> games -> machine/deep learning -> 
 ✨ __Focus Areas:__ Python fullstack <br>      
 ✨ __Currently Exploring:__ MVP
 
-Purpose: Stability, BTA, and eventually a chocolate factory.    
+Purpose: Stability, BTA, eventually a chocolate factory and a forge.    
 Drive: Ambition, tribe, freedom, the thrill of the chase.     
 Motivation: Progress, meaning.    
 
-<hr>
-I mostly work with netherbuild where we help (most) construction contractors and small construction companies do faster quotation(in seconds), crm, automation, just website and things. Normal people won't see my github profile anyway, so... interesting human let's connect!
+<hr> <br>
+I mostly work with netherbuild where we help (most) construction contractors and small construction companies do faster quotation(in seconds), crm, automation, just website and things. 
