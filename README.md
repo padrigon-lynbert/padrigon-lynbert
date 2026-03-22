@@ -17,16 +17,16 @@ PUBLIC INFO:
 
 ```
   I am already part of the largest club in the world: the rare-church-going christians.
-  Never broken a promise, 100% keeping streak. Credibility intact.. unlike the bodies I leave in my wake.
-  Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying, I am not a monk.
-  A great friend too, decades-long friend to some. Definitely a keeper -in which many are behind my locker.
-  All men are lizards beneath their civilized skin. I am the fucking lizard king. Name is Barney. Hello, friend!
+  Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying.
   I kept the people that protected me when I'm not in the room. One of them is my brother now.
+  A great friend too, decades-long friend to some. Definitely a keeper -of which many are behind my locker.
+  All men are lizards beneath their civilized skin. I am the fucking lizard king. Name is Barney. Hello, friend!
+  Never broken a promise although I rarely make one, 100% keeping streak. Credibility intact.. unlike the bodies I leave in my wake.
 ```
 <br>
 <details>
 <summary>repo</summary>
-	<br>My repos are there many good (hosted softwares) are private, but you can probably see at least hundreds of my public repos. (you may see the IPYNB thing dominating the whole codebase, in most 		cases these are what my public repository is all about actually, its just a testing ground (that's why i have no single repo pinned). If not a technical one, you may think of IPYNB 	as  a box for python codes).
+	<br>My repos are there many good (hosted softwares) are private, but you can probably see at least hundreds of my public repos. (this is just a testing ground (that's why i have no single repo pinned)
 </details>
   
 __Contacts:__ +639817990642, padrigonlynbert@gmail.com
@@ -36,9 +36,11 @@ __Contacts:__ +639817990642, padrigonlynbert@gmail.com
 <details>
   <summary>If not in I.T. don't click, skip this part.</summary>
 	
-✨ __Started with:__ I started with the usual C family so I hated programming from the start. There is no usual performative little nerd's programming love story in here. We suffer. <br>
-	My journey was simple: backend -> software -> games -> machine/deep learning -> integrating AI to pages -> devops -> creating software for ideally people that seek efficiency.<br>   	<br>simplified: [C fam], [java], [Unity,Unreal], torch, huggingface, [hosting, deployment, remotedb], django.
-	Ofcurse many things hindered my growth just like you, for example messing with shitty binary shit and brainfuck, random tools like vim and things, trying hacking and networking, building AI or engineering, building our own library, or software, playing around with theories like dsa, fa!lling in love, losing in crypto, gaming addiction, posting memes and progress in fb or linkedin as if someone cares but your own friends in which most are better than you in one niche thing, learning an instrument and touching grass strategically, getting certificatins, ah its tiring so ill stop -just other usual garbage that naturally wasted both our time for sure. The only thing usable right now is linux which is also (only) somehow useful and always a waste of time, and some discipline and mental toughness that makes you have atleast 1.5 out of the 3 dark triad traits.
+I started with the usual C family so I hated programming from the start. There is no usual performative little nerd's programming love story in here. We suffer. <br>
+
+simplified: [C, C++], [java, C#], [Unity,Unreal], [ML, DL, Analytics, AI Integration], [devops, prod], Django-backend softwares (only in my late college years that I've learned frontend. It sucks. <br>
+
+Ofcurse many things hindered my growth just like you, for example messing with abysmal binary shit and brainfuck, random tools like vim and things, then quitting depressed, trying hacking and networking, building AI or engineering, building my own library, or software, or spyware, playing around with theories like dsa, failing in love, losing in crypto, gaming addiction, posting memes and progress on fb or linkedin as if someone cares but your own friends in which most are better than you on one niche thing, learning an instrument and touching grass strategically, getting certifications, ah its tiring so ill stop -just other usual garbage that naturally wasted both our time for sure. The only thing usable right now is linux which is also (only) somehow useful and always a waste of time, and some discipline and mental toughness that makes you have atleast 1.5 out of the 3 dark triad traits.
   
 </details>
 
@@ -51,4 +53,4 @@ Drive: Ambition, tribe, freedom, the thrill of the chase.
 Motivation: Progress, meaning.    
 
 <hr> <br>
-I mostly work with netherbuild where we help (most) construction contractors and small construction companies do faster quotation(in seconds), crm, automation, just website and things. 
+I mostly work with netherbuild where we help (most) construction contractors and small construction companies do faster quotation(in seconds), crm, automation -just tools. 
