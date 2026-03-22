@@ -18,9 +18,8 @@ PUBLIC INFO:
 ```
   I am already part of the largest club in the world: the rare-church-going christians.
   Currently focused on growth. Relationships aren’t a priority. But I won’t avoid trying.
-  I kept the people that protected me when I'm not in the room. One of them is my brother now.
+  I kept the people that protected me when I'm not in the room. One of them is now a brother.
   A great friend too, decades-long friend to some. Definitely a keeper -of which many are behind my locker.
-  All men are lizards beneath their civilized skin. I am the fucking lizard king. Name is Barney. Hello, friend!
   Never broken a promise although I rarely make one, 100% keeping streak. Credibility intact.. unlike the bodies I leave in my wake.
 ```
 <br>
